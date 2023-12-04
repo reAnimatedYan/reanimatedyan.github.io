@@ -35,11 +35,19 @@ header {
     padding-top: 1%;
 }
 
-.email {
-    font-size: 13px;
+.name {
+    font-size: 15px;
+    font-family: 'Lucida Sans Unicode';
+    font-weight: 600;
+    padding-bottom: 2%;
+}
+
+.contact {
+    font-size: 14px;
     font-family: 'Lucida Sans Unicode';
     font-weight: 500;
     padding-bottom: 1%;
+
 }
 
 .resume {
@@ -69,6 +77,7 @@ header {
     font-weight: 500;
     color: #353535;
     padding-top: 8%;
+    text-align: center;
 }
 
 .gallery {
