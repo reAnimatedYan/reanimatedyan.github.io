@@ -71,12 +71,20 @@ header {
     color: #07b6fc;
 }
 
-.gallery-header {
+.gallery-header-small {
+    font-size: 17px;
+    font-family: sans-serif;
+    color: #353535;
+    padding-top: 8%;
+    text-align: center;
+}
+
+.gallery-header-big {
     font-size: 50px;
     font-family: Impact;
     font-weight: 500;
     color: #353535;
-    padding-top: 8%;
+    padding-bottom: 1%;
     text-align: center;
 }
 
