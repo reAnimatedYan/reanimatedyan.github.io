@@ -43,14 +43,14 @@ header {
     width: 100%;
     margin-bottom: 5%; 
     border-radius: 8px;
-    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     transition: transform 0.3s ease-in-out;
 }
 
 /* Media queries for different screen sizes */
 @media (min-width: 1200px) {
     .gallery {
-        column-count: 3;
+        column-count: 4;
     }
 }
 
@@ -74,7 +74,7 @@ header {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #333;
+    background-color: #1f1f1f;
     color: #fff;
     bottom: 0;
     width: 100%;
