@@ -10,6 +10,7 @@ body {
 header {
     text-align: center;
     color: #000000;
+    padding: 10px;
 }
 
 .profile-image-container {
@@ -23,8 +24,14 @@ header {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 2px solid #fff;
     overflow: hidden;
+}
+
+.username {
+    font-size: 150%;
+    font-family: 'Lucida Sans Unicode';
+    font-weight: 900;
+    padding-top: 2%;
 }
 
 .gallery {
